@@ -1,0 +1,15 @@
+{
+  "name": "gitbook-plugin-9dots-anchors",
+  "description": "Open pdfs in a new window.",
+  "repository": "git://github.com/9dots/gitbook-plugin-9dots-anchors.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish --access=public"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
