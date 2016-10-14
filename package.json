@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-9dots-anchors",
   "description": "Open pdfs in a new window.",
   "repository": "git://github.com/9dots/gitbook-plugin-9dots-anchors.git",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
